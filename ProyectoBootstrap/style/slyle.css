@@ -1,0 +1,11 @@
+
+.btn-outline-success {
+    color: #fdd;
+    border-color: #fdd;
+}
+
+.alerti{
+    background-color: black;
+    grid-column: 1/19;
+    grid-row: 1/1;
+}
